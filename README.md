@@ -1,2 +1,7 @@
 # radio-star
-Control mic'd up calls like a Disc Jockey!
+
+Disc Jockey mic'd up calls!
+
+## License
+
+[MIT](license)
